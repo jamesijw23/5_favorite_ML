@@ -1,0 +1,28 @@
+
+
+##-----------------------------------------
+## Pushing
+##-----------------------------------------
+## Login
+git config --global user.email "jamesijw23@gmail.com"
+git config --global user.name "Your Name"
+
+## Get into directory
+- cd C:\Users\james\OneDrive\Documents\Important_Files\Favorite_5_ML algorithms\5_favorite_ML>
+
+## List files to be able to see which file is being saved
+- ls
+
+## Determine that new file has been saved
+- git status
+## Commit what has been done
+git commit -a -m "I modified some existing files."
+## Push info to git
+- git push
+
+
+Learn 
+https://gab41.lab41.org/commit-and-push-to-github-from-jupyter-notebooks-579f5743a50b
+
+Resources
+https://github.com/isetbio/jupyter-hub-oauth-isetbio/wiki/Pushing-and-Pulling-Notebooks
